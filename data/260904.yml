@@ -7,7 +7,7 @@ about:
   head: 5bb8186
   archived: false
   latestVersion: v0.6.0
-  collectedAt: 2026-09-04T19:30:10Z
+  collectedAt: 2026-09-04T21:02:50Z
 timeline:
   created: 2026-04-24
   lastCommit: 2026-07-10
@@ -81,5 +81,38 @@ total:
   openIssue: 1
   commit: 78
 ---
+path: /home/runner/.x-repo/github.com/gripebomb/threatdeck
+collectedAt: 2026-09-04T21:02:52Z
+loc:
+  Rust:
+    code: 19568
+    comments: 177
+    blanks: 1603
+    files: 59
+  Sql:
+    code: 644
+    comments: 8
+    blanks: 37
+    files: 3
+  Sh:
+    code: 207
+    comments: 23
+    blanks: 83
+    files: 1
+  Toml:
+    code: 100
+    comments: 0
+    blanks: 10
+    files: 4
+  Markdown:
+    code: 0
+    comments: 776
+    blanks: 298
+    files: 6
+total:
+  code: 20655
+  comments: 1086
+  blanks: 2070
+  files: 73
 ---
 
