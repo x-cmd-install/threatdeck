@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.0"
   latestRelease: "v0.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T03:12:55Z
+  collectedAt: 2026-09-10T15:49:04Z
 timeline:
   created: 2026-04-24
   lastCommit: 2026-07-10
@@ -84,7 +84,7 @@ total:
   commit: 78
 ---
 path: /home/runner/.x-repo/github.com/gripebomb/threatdeck
-collectedAt: 2026-09-10T03:12:56Z
+collectedAt: 2026-09-10T15:49:06Z
 loc:
   Rust:
     code: 19568
