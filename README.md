@@ -23,7 +23,15 @@ x install threatdeck
 - **Latest**: `v0.6.0` (2026-06-13)
 - **Last commit**: 2026-07-10
 - **Assets in release**: 4
-- **Published**: 2026-06-13T02:54:28Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [SHA256SUMS](https://github.com/gripebomb/threatdeck/releases/download/v0.6.0/SHA256SUMS) | 498 B | `other` |
+| [ThreatDeck-aarch64-macos](https://github.com/gripebomb/threatdeck/releases/download/v0.6.0/ThreatDeck-aarch64-macos) | 8.0 MiB | `native/darwin/arm64` |
+| [ThreatDeck-x86_64-linux](https://github.com/gripebomb/threatdeck/releases/download/v0.6.0/ThreatDeck-x86_64-linux) | 9.7 MiB | `native/linux/x64` |
+| [ThreatDeck-x86_64-macos](https://github.com/gripebomb/threatdeck/releases/download/v0.6.0/ThreatDeck-x86_64-macos) | 8.6 MiB | `native/darwin/x64` |
 
 ## Popularity
 
@@ -58,8 +66,8 @@ Total: **20,519** lines of code across **73** files in the top 5 languages.
 Install metadata for threatdeck lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `threatdeck` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/threatdeck.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/threatdeck.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:13:01Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:49:10Z._
