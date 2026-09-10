@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10175952,
       "digest": "sha256:7734e067a6ba7e6d977ff853a1958a694ee93d5a112cf8f01fb3a825bc0b3287",
-      "download_count": 116,
+      "download_count": 117,
       "created_at": "2026-06-13T02:57:58Z",
       "updated_at": "2026-06-13T02:57:59Z",
       "browser_download_url": "https://github.com/gripebomb/ThreatDeck/releases/download/v0.6.0/ThreatDeck-x86_64-linux"
