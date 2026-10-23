@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: threatdeck
+  visiblename: threatdeck
+  version: 0.6.0
+  origversion: null
+  status: unique
+  summary: TUI threat intelligence monitoring and alerting platform
+- repo: homebrew
+  srcname: threatdeck
+  visiblename: threatdeck
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI threat intelligence monitoring and alerting platform
