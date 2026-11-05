@@ -14,11 +14,11 @@ x install threatdeck
 
 ## Code insight
 
-Total: **20,519** lines of code across **73** files in the top 5 languages.
+Total: **23,059** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 19,568 | 177 | 1,603 | 59 |
+| Rust | 22,108 | 233 | 1,814 | 66 |
 | Sql | 644 | 8 | 37 | 3 |
 | Sh | 207 | 23 | 83 | 1 |
 | Toml | 100 | 0 | 10 | 4 |
@@ -33,7 +33,7 @@ Total: **20,519** lines of code across **73** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-06-13)
-- **Last commit**: 2026-07-10
+- **Last commit**: 2026-11-04
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **20,519** lines of code across **73** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 78
+- **Releases**: 8 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 90
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 6 | 1 | 0 | 1 | 0 | 46 |
-| 360d | 2025-11-09 | 8 | 1 | 0 | 4 | 1 | 77 |
-| last720d | 2024-11-14 | 8 | 1 | 0 | 4 | 1 | 78 |
+| 30d | 2026-10-06 | 0 | 1 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-06 | 0 | 1 | 0 | 0 | 0 | 7 |
+| 90d | 2026-08-07 | 0 | 1 | 0 | 0 | 0 | 7 |
+| last180d | 2026-05-09 | 6 | 2 | 0 | 1 | 0 | 57 |
+| 360d | 2025-11-10 | 8 | 2 | 0 | 4 | 1 | 88 |
+| last720d | 2024-11-15 | 8 | 2 | 0 | 4 | 1 | 90 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for threatdeck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T04:55:58Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T05:14:59Z._
