@@ -38,7 +38,7 @@ Total: **23,059** lines of code across **80** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 112 · **Forks**: 5 · **Open issues**: 5 · **Contributors**: 1
+- **Stars**: 113 · **Forks**: 5 · **Open issues**: 5 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **23,059** lines of code across **80** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-26 | 0 | 1 | 0 | 0 | 0 | 7 |
-| 90d | 2026-08-27 | 0 | 1 | 0 | 0 | 0 | 7 |
-| last180d | 2026-05-29 | 2 | 2 | 0 | 0 | 0 | 21 |
-| 360d | 2025-11-30 | 8 | 2 | 0 | 4 | 1 | 88 |
-| last720d | 2024-12-05 | 8 | 2 | 0 | 4 | 1 | 90 |
+| 30d | 2026-10-27 | 0 | 1 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-27 | 0 | 1 | 0 | 0 | 0 | 7 |
+| 90d | 2026-08-28 | 0 | 1 | 0 | 0 | 0 | 7 |
+| last180d | 2026-05-30 | 2 | 2 | 0 | 0 | 0 | 21 |
+| 360d | 2025-12-01 | 8 | 2 | 0 | 4 | 1 | 88 |
+| last720d | 2024-12-06 | 8 | 2 | 0 | 4 | 1 | 90 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for threatdeck lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T07:05:52Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T06:57:23Z._
